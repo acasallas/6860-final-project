@@ -1,0 +1,1014 @@
+iteration: 1000
+loss: 2.0345020582675932
+ accuracy: 0.394375
+iteration: 2000
+loss: 1.6450044086575508
+ accuracy: 0.441875
+iteration: 3000
+loss: 1.521597139954567
+ accuracy: 0.493125
+iteration: 4000
+loss: 1.4095610243082046
+ accuracy: 0.493125
+iteration: 5000
+loss: 1.3228987726569175
+ accuracy: 0.5475
+iteration: 6000
+loss: 1.295270800113678
+ accuracy: 0.559375
+iteration: 7000
+loss: 1.2180225130319595
+ accuracy: 0.5775
+iteration: 8000
+loss: 1.1743338189721106
+ accuracy: 0.60375
+iteration: 9000
+loss: 1.1544435429275035
+ accuracy: 0.6025
+iteration: 10000
+loss: 1.091182698994875
+ accuracy: 0.615
+iteration: 11000
+loss: 1.073041459709406
+ accuracy: 0.6
+iteration: 12000
+loss: 1.0510810492932796
+ accuracy: 0.62875
+iteration: 13000
+loss: 1.0079966025650502
+ accuracy: 0.629375
+iteration: 14000
+loss: 0.9962469128966331
+ accuracy: 0.641875
+iteration: 15000
+loss: 0.9717578229308128
+ accuracy: 0.6475
+iteration: 16000
+loss: 0.9406756841242313
+ accuracy: 0.6575
+iteration: 17000
+loss: 0.925714490711689
+ accuracy: 0.6725
+iteration: 18000
+loss: 0.9075203529000282
+ accuracy: 0.65
+iteration: 19000
+loss: 0.8846261761337518
+ accuracy: 0.689375
+iteration: 20000
+loss: 0.8718999647349119
+ accuracy: 0.683125
+iteration: 21000
+loss: 0.8544585372805595
+ accuracy: 0.69625
+iteration: 22000
+loss: 0.835198492616415
+ accuracy: 0.6925
+iteration: 23000
+loss: 0.825877195686102
+ accuracy: 0.6875
+iteration: 24000
+loss: 0.81297426918149
+ accuracy: 0.688125
+iteration: 25000
+loss: 0.7977800919413567
+ accuracy: 0.681875
+iteration: 26000
+loss: 0.7791008992791176
+ accuracy: 0.68375
+iteration: 27000
+loss: 0.7663155727088451
+ accuracy: 0.708125
+iteration: 28000
+loss: 0.7662381898611784
+ accuracy: 0.7025
+iteration: 29000
+loss: 0.7415337084084749
+ accuracy: 0.69875
+iteration: 30000
+loss: 0.7303407064825297
+ accuracy: 0.71625
+iteration: 31000
+loss: 0.7329167768061161
+ accuracy: 0.720625
+iteration: 32000
+loss: 0.7049650261849165
+ accuracy: 0.714375
+iteration: 33000
+loss: 0.7069655980914831
+ accuracy: 0.703125
+iteration: 34000
+loss: 0.7036751669794321
+ accuracy: 0.70875
+iteration: 35000
+loss: 0.664148868329823
+ accuracy: 0.703125
+iteration: 36000
+loss: 0.680343626447022
+ accuracy: 0.704375
+iteration: 37000
+loss: 0.6691188294142485
+ accuracy: 0.700625
+iteration: 38000
+loss: 0.6437487489283085
+ accuracy: 0.720625
+iteration: 39000
+loss: 0.6467257556170225
+ accuracy: 0.69375
+iteration: 40000
+loss: 0.6421202185302973
+ accuracy: 0.69
+iteration: 41000
+loss: 0.6268409536555409
+ accuracy: 0.684375
+iteration: 42000
+loss: 0.6175542976409197
+ accuracy: 0.709375
+iteration: 43000
+loss: 0.6155211272761225
+ accuracy: 0.7225
+iteration: 44000
+loss: 0.5968285610675812
+ accuracy: 0.71
+iteration: 45000
+loss: 0.5946608360409736
+ accuracy: 0.703125
+iteration: 46000
+loss: 0.5849919840246439
+ accuracy: 0.715
+iteration: 47000
+loss: 0.579677487976849
+ accuracy: 0.688125
+iteration: 48000
+loss: 0.564553252927959
+ accuracy: 0.691875
+iteration: 49000
+loss: 0.5639592344388366
+ accuracy: 0.70375
+iteration: 50000
+loss: 0.5568843500167131
+ accuracy: 0.715
+iteration: 51000
+loss: 0.5386763319894672
+ accuracy: 0.71625
+iteration: 52000
+loss: 0.5422761723846197
+ accuracy: 0.7075
+iteration: 53000
+loss: 0.54168018200621
+ accuracy: 0.7075
+iteration: 54000
+loss: 0.5124078430533409
+ accuracy: 0.6975
+iteration: 55000
+loss: 1.7811452349945902
+ accuracy: 0.096875
+iteration: 56000
+loss: 2.3025851249694824
+ accuracy: 0.096875
+iteration: 57000
+loss: 2.3025851249694824
+ accuracy: 0.096875
+iteration: 58000
+loss: 2.3025851249694824
+ accuracy: 0.096875
+iteration: 59000
+loss: 2.3025851249694824
+ accuracy: 0.09625
+iteration: 60000
+loss: 2.3025851249694824
+ accuracy: 0.095625
+iteration: 61000
+loss: 2.3025851249694824
+ accuracy: 0.096875
+iteration: 62000
+loss: 2.3025851249694824
+ accuracy: 0.09625
+iteration: 63000
+loss: 2.3025851249694824
+ accuracy: 0.09625
+iteration: 64000
+loss: 2.3025851249694824
+ accuracy: 0.0975
+iteration: 65000
+loss: 2.3025851249694824
+ accuracy: 0.096875
+iteration: 66000
+loss: 2.3025851249694824
+ accuracy: 0.09625
+iteration: 67000
+loss: 2.3025851249694824
+ accuracy: 0.096875
+iteration: 68000
+loss: 2.3025851249694824
+ accuracy: 0.0975
+iteration: 69000
+loss: 2.3025851249694824
+ accuracy: 0.095625
+iteration: 70000
+loss: 2.3025851249694824
+ accuracy: 0.0975
+iteration: 71000
+loss: 2.3025851249694824
+ accuracy: 0.0975
+iteration: 72000
+loss: 2.3025851249694824
+ accuracy: 0.099375
+iteration: 73000
+loss: 2.3025851249694824
+ accuracy: 0.1
+iteration: 74000
+loss: 2.3025851249694824
+ accuracy: 0.09875
+iteration: 75000
+loss: 2.3025851249694824
+ accuracy: 0.098125
+iteration: 76000
+loss: 2.3025851249694824
+ accuracy: 0.098125
+iteration: 77000
+loss: 2.3025851249694824
+ accuracy: 0.09625
+iteration: 78000
+loss: 2.3025851249694824
+ accuracy: 0.098125
+iteration: 79000
+loss: 2.3025851249694824
+ accuracy: 0.098125
+iteration: 80000
+loss: 2.3025851249694824
+ accuracy: 0.096875
+iteration: 81000
+loss: 2.3025851249694824
+ accuracy: 0.0975
+iteration: 82000
+loss: 2.3025851249694824
+ accuracy: 0.0975
+iteration: 83000
+loss: 2.3025851249694824
+ accuracy: 0.09625
+iteration: 84000
+loss: 2.3025851249694824
+ accuracy: 0.09875
+iteration: 85000
+loss: 2.3025851249694824
+ accuracy: 0.096875
+iteration: 86000
+loss: 2.3025851249694824
+ accuracy: 0.096875
+iteration: 87000
+loss: 2.3025851249694824
+ accuracy: 0.09625
+iteration: 88000
+loss: 2.3025851249694824
+ accuracy: 0.096875
+iteration: 1000
+loss: 2.0815901361703872
+ accuracy: 0.31125
+iteration: 2000
+loss: 1.6876915190219879
+ accuracy: 0.405
+iteration: 3000
+loss: 1.5491333013772965
+ accuracy: 0.459375
+iteration: 4000
+loss: 1.445544932961464
+ accuracy: 0.478125
+iteration: 5000
+loss: 1.3666691517233849
+ accuracy: 0.51375
+iteration: 6000
+loss: 1.3348065510988236
+ accuracy: 0.533125
+iteration: 7000
+loss: 1.2559360174536705
+ accuracy: 0.54375
+iteration: 8000
+loss: 1.2116211322546004
+ accuracy: 0.543125
+iteration: 9000
+loss: 1.1854913696050644
+ accuracy: 0.59625
+iteration: 10000
+loss: 1.1266548935174943
+ accuracy: 0.600625
+iteration: 11000
+loss: 1.096115109860897
+ accuracy: 0.595625
+iteration: 12000
+loss: 1.0751007444858551
+ accuracy: 0.618125
+iteration: 13000
+loss: 1.0336727219223976
+ accuracy: 0.626875
+iteration: 14000
+loss: 1.0060190926492214
+ accuracy: 0.6275
+iteration: 15000
+loss: 0.9852239772677421
+ accuracy: 0.626875
+iteration: 16000
+loss: 0.9594427162408828
+ accuracy: 0.65375
+iteration: 17000
+loss: 0.9357026559412479
+ accuracy: 0.645625
+iteration: 18000
+loss: 0.9122840736806392
+ accuracy: 0.654375
+iteration: 19000
+loss: 0.8946474509835243
+ accuracy: 0.671875
+iteration: 20000
+loss: 0.8763187983632088
+ accuracy: 0.660625
+iteration: 21000
+loss: 0.844062565818429
+ accuracy: 0.67375
+iteration: 22000
+loss: 0.8354290169775486
+ accuracy: 0.6625
+iteration: 23000
+loss: 0.8120307178348303
+ accuracy: 0.675
+iteration: 24000
+loss: 0.795564688205719
+ accuracy: 0.67
+iteration: 25000
+loss: 0.7831525294333697
+ accuracy: 0.685625
+iteration: 26000
+loss: 0.7676494887769222
+ accuracy: 0.6775
+iteration: 27000
+loss: 0.7394786816686392
+ accuracy: 0.688125
+iteration: 28000
+loss: 0.7373648405075073
+ accuracy: 0.6925
+iteration: 29000
+loss: 0.7149265516400337
+ accuracy: 0.67625
+iteration: 30000
+loss: 0.6974598729461432
+ accuracy: 0.68625
+iteration: 31000
+loss: 0.6947905530035495
+ accuracy: 0.67625
+iteration: 32000
+loss: 0.6679204740375281
+ accuracy: 0.685625
+iteration: 33000
+loss: 0.6623039355278015
+ accuracy: 0.7
+iteration: 34000
+loss: 0.6545101550519467
+ accuracy: 0.679375
+iteration: 35000
+loss: 0.6254494307041168
+ accuracy: 0.68375
+iteration: 36000
+loss: 0.6284848256856204
+ accuracy: 0.70375
+iteration: 37000
+loss: 0.6135917370840908
+ accuracy: 0.698125
+iteration: 38000
+loss: 0.5839339225068688
+ accuracy: 0.679375
+iteration: 39000
+loss: 0.5865490655079484
+ accuracy: 0.66875
+iteration: 40000
+loss: 0.5736599343642592
+ accuracy: 0.681875
+iteration: 41000
+loss: 0.5540085581317544
+ accuracy: 0.690625
+iteration: 42000
+loss: 0.5497273585796356
+ accuracy: 0.6925
+iteration: 43000
+loss: 0.53144344022125
+ accuracy: 0.689375
+iteration: 44000
+loss: 0.5179194963499903
+ accuracy: 0.69125
+iteration: 45000
+loss: 0.5154352812916041
+ accuracy: 0.66625
+iteration: 46000
+loss: 0.5011088585481047
+ accuracy: 0.70375
+iteration: 47000
+loss: 0.4784594879411161
+ accuracy: 0.693125
+iteration: 48000
+loss: 0.48032501439750197
+ accuracy: 0.68375
+iteration: 49000
+loss: 0.46641689600795505
+ accuracy: 0.671875
+iteration: 50000
+loss: 0.44998107955232264
+ accuracy: 0.680625
+iteration: 51000
+loss: 0.44726425348222254
+ accuracy: 0.676875
+iteration: 52000
+loss: 0.4283692615441978
+ accuracy: 0.690625
+iteration: 53000
+loss: 0.4291451482027769
+ accuracy: 0.685625
+iteration: 54000
+loss: 0.409295200034976
+ accuracy: 0.675
+iteration: 55000
+loss: 0.39633219166845085
+ accuracy: 0.679375
+iteration: 56000
+loss: 0.4015260190367699
+ accuracy: 0.693125
+iteration: 57000
+loss: 0.3728467217199504
+ accuracy: 0.685
+iteration: 58000
+loss: 0.3648006221614778
+ accuracy: 0.665625
+iteration: 59000
+loss: 0.366450377183035
+ accuracy: 0.675625
+iteration: 60000
+loss: 0.34896085335314275
+ accuracy: 0.671875
+iteration: 61000
+loss: 0.33649448699504136
+ accuracy: 0.655625
+iteration: 62000
+loss: 0.33178305553644893
+ accuracy: 0.674375
+iteration: 63000
+loss: 0.31582148563303053
+ accuracy: 0.691875
+iteration: 64000
+loss: 0.31895539978146553
+ accuracy: 0.665
+iteration: 65000
+loss: 0.3110690093357116
+ accuracy: 0.665
+iteration: 66000
+loss: 0.2958768588602543
+ accuracy: 0.671875
+iteration: 67000
+loss: 0.2900443825609982
+ accuracy: 0.683125
+iteration: 68000
+loss: 0.28163471512682736
+ accuracy: 0.668125
+iteration: 69000
+loss: 0.27073531328421085
+ accuracy: 0.673125
+iteration: 70000
+loss: 0.2724824280869216
+ accuracy: 0.659375
+iteration: 71000
+loss: 0.2556716351341456
+ accuracy: 0.67625
+iteration: 72000
+loss: 0.2526882156115025
+ accuracy: 0.669375
+iteration: 73000
+loss: 0.24085419831890612
+ accuracy: 0.6775
+iteration: 74000
+loss: 0.23838355551380663
+ accuracy: 0.669375
+iteration: 75000
+loss: 0.2301613592915237
+ accuracy: 0.683125
+iteration: 76000
+loss: 0.23085780533403158
+ accuracy: 0.6525
+iteration: 77000
+loss: 0.20890352533757686
+ accuracy: 0.689375
+iteration: 78000
+loss: 0.2070152190849185
+ accuracy: 0.675
+iteration: 79000
+loss: 0.20080376607878134
+ accuracy: 0.658125
+iteration: 80000
+loss: 0.19205990921589547
+ accuracy: 0.68375
+iteration: 81000
+loss: 0.19596066157589667
+ accuracy: 0.675625
+iteration: 82000
+loss: 0.18160178932151758
+ accuracy: 0.669375
+iteration: 83000
+loss: 0.17922732832469046
+ accuracy: 0.673125
+iteration: 84000
+loss: 0.1834661977724172
+ accuracy: 0.669375
+iteration: 85000
+loss: 0.16910723402176517
+ accuracy: 0.650625
+iteration: 86000
+loss: 0.16186161538190208
+ accuracy: 0.66375
+iteration: 87000
+loss: 0.16996735196607188
+ accuracy: 0.6825
+iteration: 88000
+loss: 0.1486063761387486
+ accuracy: 0.675
+iteration: 89000
+loss: 0.1532521713161841
+ accuracy: 0.66625
+iteration: 90000
+loss: 0.14463328700116834
+ accuracy: 0.6625
+iteration: 91000
+loss: 0.14415259942086414
+ accuracy: 0.679375
+iteration: 92000
+loss: 0.14271165862842464
+ accuracy: 0.6575
+iteration: 93000
+loss: 0.14613547470932825
+ accuracy: 0.6625
+iteration: 94000
+loss: 0.13864795165474061
+ accuracy: 0.67125
+iteration: 95000
+loss: 0.12898138053901492
+ accuracy: 0.668125
+iteration: 96000
+loss: 0.12916007171850652
+ accuracy: 0.676875
+iteration: 97000
+loss: 0.12741832271497697
+ accuracy: 0.6675
+iteration: 98000
+loss: 0.12142145517538301
+ accuracy: 0.67375
+iteration: 99000
+loss: 0.11783352000359446
+ accuracy: 0.6775
+iteration: 100000
+loss: 0.11336085873981938
+ accuracy: 0.69
+iteration: 101000
+loss: 0.11419761114707216
+ accuracy: 0.665
+iteration: 102000
+loss: 0.1107920701239491
+ accuracy: 0.68625
+iteration: 103000
+loss: 0.10849499754520366
+ accuracy: 0.6725
+iteration: 104000
+loss: 0.10088574064569547
+ accuracy: 0.661875
+iteration: 105000
+loss: 0.09978659542900277
+ accuracy: 0.676875
+iteration: 106000
+loss: 0.11096671729588707
+ accuracy: 0.684375
+iteration: 107000
+loss: 0.10452729858038946
+ accuracy: 0.658125
+iteration: 108000
+loss: 0.10375837281293934
+ accuracy: 0.668125
+iteration: 109000
+loss: 0.10222543816670077
+ accuracy: 0.66125
+iteration: 110000
+loss: 0.10024416935746558
+ accuracy: 0.6775
+iteration: 111000
+loss: 0.09656770587043138
+ accuracy: 0.660625
+iteration: 112000
+loss: 0.09844795177836203
+ accuracy: 0.664375
+iteration: 113000
+loss: 0.08595461230177898
+ accuracy: 0.66625
+iteration: 114000
+loss: 0.08321730669378304
+ accuracy: 0.664375
+iteration: 115000
+loss: 0.09202657071762951
+ accuracy: 0.673125
+iteration: 116000
+loss: 0.08062950750946765
+ accuracy: 0.675625
+iteration: 117000
+loss: 0.08447953662939835
+ accuracy: 0.658125
+iteration: 118000
+loss: 0.1001090555738192
+ accuracy: 0.654375
+iteration: 119000
+loss: 0.0849598691467545
+ accuracy: 0.66875
+iteration: 120000
+loss: 0.0940697884997353
+ accuracy: 0.6575
+iteration: 121000
+loss: 0.07057999034320528
+ accuracy: 0.66875
+iteration: 122000
+loss: 0.0846239654290548
+ accuracy: 0.668125
+iteration: 123000
+loss: 0.07251566113071749
+ accuracy: 0.6725
+iteration: 124000
+loss: 0.08528495208756066
+ accuracy: 0.66375
+iteration: 125000
+loss: 0.07512178249954013
+ accuracy: 0.66625
+iteration: 126000
+loss: 0.08478792704566149
+ accuracy: 0.658125
+iteration: 127000
+loss: 0.06437413388463029
+ accuracy: 0.6725
+iteration: 128000
+loss: 0.07011023355211364
+ accuracy: 0.665625
+iteration: 129000
+loss: 0.06637382441265799
+ accuracy: 0.661875
+iteration: 130000
+loss: 0.07162923238009535
+ accuracy: 0.674375
+iteration: 131000
+loss: 0.07800676179595757
+ accuracy: 0.668125
+iteration: 132000
+loss: 0.07826115188817494
+ accuracy: 0.66125
+iteration: 133000
+loss: 0.07171809230957296
+ accuracy: 0.670625
+iteration: 134000
+loss: 0.0783721662677126
+ accuracy: 0.66375
+iteration: 135000
+loss: 0.06586023979155288
+ accuracy: 0.66375
+iteration: 136000
+loss: 0.06844847954757279
+ accuracy: 0.646875
+iteration: 137000
+loss: 0.07358967862559075
+ accuracy: 0.671875
+iteration: 138000
+loss: 0.06353064909303793
+ accuracy: 0.67875
+iteration: 139000
+loss: 0.06176309570028388
+ accuracy: 0.65125
+iteration: 140000
+loss: 0.06119450084886921
+ accuracy: 0.6725
+iteration: 141000
+loss: 0.05698589399516641
+ accuracy: 0.681875
+iteration: 142000
+loss: 0.0636632069915213
+ accuracy: 0.675
+iteration: 143000
+loss: 0.06602322634353913
+ accuracy: 0.67
+iteration: 144000
+loss: 0.0704413773931883
+ accuracy: 0.66
+iteration: 145000
+loss: 0.06945184675852943
+ accuracy: 0.666875
+iteration: 146000
+loss: 0.06170380132796527
+ accuracy: 0.669375
+iteration: 147000
+loss: 0.07067491553898435
+ accuracy: 0.65625
+iteration: 148000
+loss: 0.06403532664650993
+ accuracy: 0.655625
+iteration: 149000
+loss: 0.06188648324765381
+ accuracy: 0.654375
+iteration: 150000
+loss: 0.06380104749997553
+ accuracy: 0.67125
+iteration: 151000
+loss: 0.05872502800820075
+ accuracy: 0.65875
+iteration: 152000
+loss: 0.048221844551251704
+ accuracy: 0.670625
+iteration: 153000
+loss: 0.04807279115670826
+ accuracy: 0.660625
+iteration: 154000
+loss: 0.053620739257137756
+ accuracy: 0.658125
+iteration: 155000
+loss: 0.04977884793310659
+ accuracy: 0.665625
+iteration: 156000
+loss: 0.055307748636018006
+ accuracy: 0.66375
+iteration: 157000
+loss: 0.04898623689251326
+ accuracy: 0.67375
+iteration: 158000
+loss: 0.04343711312527739
+ accuracy: 0.66125
+iteration: 159000
+loss: 0.050867805429756115
+ accuracy: 0.6725
+iteration: 160000
+loss: 0.04598543062580575
+ accuracy: 0.669375
+iteration: 161000
+loss: 0.0390965814173469
+ accuracy: 0.64375
+iteration: 162000
+loss: 0.04110910683664042
+ accuracy: 0.6625
+iteration: 163000
+loss: 0.04340388609944785
+ accuracy: 0.670625
+iteration: 164000
+loss: 0.04447608913682052
+ accuracy: 0.669375
+iteration: 165000
+loss: 0.041982241612309734
+ accuracy: 0.664375
+iteration: 166000
+loss: 0.05203634183848772
+ accuracy: 0.663125
+iteration: 167000
+loss: 0.04554433063422402
+ accuracy: 0.663125
+iteration: 168000
+loss: 0.04970618529337662
+ accuracy: 0.663125
+iteration: 169000
+loss: 0.040012830334195316
+ accuracy: 0.6675
+iteration: 170000
+loss: 0.04419490263832995
+ accuracy: 0.66875
+iteration: 171000
+loss: 0.031693165246615536
+ accuracy: 0.659375
+iteration: 172000
+loss: 0.037172912661164445
+ accuracy: 0.668125
+iteration: 173000
+loss: 0.03500517191681138
+ accuracy: 0.65875
+iteration: 174000
+loss: 0.035672959593825
+ accuracy: 0.656875
+iteration: 175000
+loss: 0.050310329880750945
+ accuracy: 0.666875
+iteration: 176000
+loss: 0.04327607285783415
+ accuracy: 0.65375
+iteration: 177000
+loss: 0.034444477618922976
+ accuracy: 0.668125
+iteration: 178000
+loss: 0.037839150802639776
+ accuracy: 0.66125
+iteration: 179000
+loss: 0.03493901822566022
+ accuracy: 0.65875
+iteration: 180000
+loss: 0.0381502379306894
+ accuracy: 0.665625
+iteration: 181000
+loss: 0.031894071008540775
+ accuracy: 0.66625
+iteration: 182000
+loss: 0.04541306040395557
+ accuracy: 0.665625
+iteration: 183000
+loss: 0.043432459291885606
+ accuracy: 0.6625
+iteration: 184000
+loss: 0.042020058505485396
+ accuracy: 0.671875
+iteration: 185000
+loss: 0.029917247631610733
+ accuracy: 0.679375
+iteration: 186000
+loss: 0.033243633809608125
+ accuracy: 0.65375
+iteration: 187000
+loss: 0.038544063885045034
+ accuracy: 0.66875
+iteration: 188000
+loss: 0.04630949568283177
+ accuracy: 0.665625
+iteration: 189000
+loss: 0.038222129747395514
+ accuracy: 0.65375
+iteration: 190000
+loss: 0.05183399453652055
+ accuracy: 0.6625
+iteration: 191000
+loss: 0.03543323074660839
+ accuracy: 0.66625
+iteration: 192000
+loss: 0.030111239735791058
+ accuracy: 0.668125
+iteration: 193000
+loss: 0.03663051966710918
+ accuracy: 0.665
+iteration: 194000
+loss: 0.03588367936314353
+ accuracy: 0.669375
+iteration: 195000
+loss: 0.029229696456099193
+ accuracy: 0.674375
+iteration: 196000
+loss: 0.03646521383262916
+ accuracy: 0.665
+iteration: 197000
+loss: 0.03132426378397122
+ accuracy: 0.664375
+iteration: 198000
+loss: 0.03637911207186971
+ accuracy: 0.65875
+iteration: 199000
+loss: 0.03730927301896554
+ accuracy: 0.675
+iteration: 200000
+loss: 0.04178372028502054
+ accuracy: 0.6625
+iteration: 201000
+loss: 0.043477902854921924
+ accuracy: 0.661875
+iteration: 202000
+loss: 0.03678723427267323
+ accuracy: 0.666875
+iteration: 203000
+loss: 0.032590744962044484
+ accuracy: 0.668125
+iteration: 204000
+loss: 0.030356375173807463
+ accuracy: 0.638125
+iteration: 205000
+loss: 0.03090477537724132
+ accuracy: 0.659375
+iteration: 206000
+loss: 0.039430114311962826
+ accuracy: 0.65875
+iteration: 207000
+loss: 0.02922557144523853
+ accuracy: 0.665625
+iteration: 208000
+loss: 0.028123620709004173
+ accuracy: 0.66
+iteration: 209000
+loss: 0.031227161707523918
+ accuracy: 0.654375
+iteration: 210000
+loss: 0.03009633631800989
+ accuracy: 0.669375
+iteration: 211000
+loss: 0.02269636735995755
+ accuracy: 0.65625
+iteration: 212000
+loss: 0.025636902911753624
+ accuracy: 0.668125
+iteration: 213000
+loss: 0.02418123083248611
+ accuracy: 0.671875
+iteration: 214000
+loss: 0.025630745274516812
+ accuracy: 0.65625
+iteration: 215000
+loss: 0.021645241264864126
+ accuracy: 0.656875
+iteration: 216000
+loss: 0.019851650278973922
+ accuracy: 0.658125
+iteration: 217000
+loss: 0.0220651593234752
+ accuracy: 0.655625
+iteration: 218000
+loss: 0.021008534926393166
+ accuracy: 0.66875
+iteration: 219000
+loss: 0.029422372210854066
+ accuracy: 0.6675
+iteration: 220000
+loss: 0.02787316413209328
+ accuracy: 0.6575
+iteration: 221000
+loss: 0.028558107473076234
+ accuracy: 0.668125
+iteration: 222000
+loss: 0.03150158989730062
+ accuracy: 0.65625
+iteration: 223000
+loss: 0.02870746177570527
+ accuracy: 0.65375
+iteration: 224000
+loss: 0.03471004543549679
+ accuracy: 0.658125
+iteration: 225000
+loss: 0.029639673564900475
+ accuracy: 0.653125
+iteration: 226000
+loss: 0.031125935222345105
+ accuracy: 0.659375
+iteration: 227000
+loss: 0.026342607957851216
+ accuracy: 0.64875
+iteration: 228000
+loss: 0.02778223428111278
+ accuracy: 0.67
+iteration: 229000
+loss: 0.024776845490410322
+ accuracy: 0.65625
+iteration: 230000
+loss: 0.02373586900965347
+ accuracy: 0.6675
+iteration: 231000
+loss: 0.02623584172931987
+ accuracy: 0.64875
+iteration: 232000
+loss: 0.02609959814036779
+ accuracy: 0.653125
+iteration: 233000
+loss: 0.026749125915463082
+ accuracy: 0.65375
+iteration: 234000
+loss: 0.027519752107689328
+ accuracy: 0.663125
+iteration: 235000
+loss: 0.026640856643993176
+ accuracy: 0.671875
+iteration: 236000
+loss: 0.022495398276971626
+ accuracy: 0.651875
+iteration: 237000
+loss: 0.03606801459752933
+ accuracy: 0.65625
+iteration: 238000
+loss: 0.03268730183119533
+ accuracy: 0.65625
+iteration: 239000
+loss: 0.023142048437884342
+ accuracy: 0.65625
+iteration: 240000
+loss: 0.02291969847237772
+ accuracy: 0.663125
+iteration: 241000
+loss: 0.01873549310179118
+ accuracy: 0.659375
+iteration: 242000
+loss: 0.01654534848994001
+ accuracy: 0.66625
+iteration: 243000
+loss: 0.0203256746719901
+ accuracy: 0.669375
+iteration: 244000
+loss: 0.017412354982432588
+ accuracy: 0.66875
+iteration: 245000
+loss: 0.021667364581952144
+ accuracy: 0.64875
+iteration: 246000
+loss: 0.023604930207844745
+ accuracy: 0.6725
+iteration: 247000
+loss: 0.023820803425768873
+ accuracy: 0.666875
+iteration: 248000
+loss: 0.01761880866315505
+ accuracy: 0.671875
+iteration: 249000
+loss: 0.017446381624649347
+ accuracy: 0.67
+iteration: 250000
+loss: 0.019898700470597986
+ accuracy: 0.671875
